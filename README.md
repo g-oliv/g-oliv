@@ -1,7 +1,30 @@
 <h1 align="center">Hi 👋, I'm Gonçalo</h1>
-<h3 align="center">A software engineer from Portugal</h3>
 
+<!-- <h3 align="center">A software engineer from Portugal</h3> -->
 
+```console
+git@hub:~$ whoami
+An aerospace engineer working in software development
+Changed careers 1 year ago 
+Currently working as a software developer at Capgemini - doing (mainly) backend dev. in Java and Spring
+I love coffee, working out and stand-up comedy
+```
+
+```console
+git@hub:~$ learning
+CS topics: Design Patterns, DSA
+Cloud: AWS 
+Frontend: React
+```
+
+<!-- 
+```yml
+I am currently learning:
+    CS topics: Design Patterns, DSA
+    Cloud: AWS 
+    Frontend: React
+```
+-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> </p>
