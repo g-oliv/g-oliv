@@ -15,12 +15,14 @@ Currently working as a software developer at Capgemini - doing (mainly) backend 
 I love coffee, working out and stand-up comedy
 ```
 
+<!-- 
 ```console
 git@hub:~$ learning
-CS topics: Design Patterns, DSA
+CS topics: DSA
 Cloud: AWS 
 Frontend: React
 ```
+-->
 
 <!-- 
 ```yml
