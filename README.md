@@ -10,7 +10,7 @@
 ```console
 git@hub:~$ whoami
 An aerospace engineer working in software development
-Currently working as a software developer at Capgemini - doing (mainly) backend dev. in Java and Spring Boot
+I am a software engineer from Portugal - (mainly) backend dev. in Java and Spring Boot
 I love coffee, working out and stand-up comedy
 ```
 
