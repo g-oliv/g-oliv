@@ -10,7 +10,7 @@
 ```console
 git@hub:~$ whoami
 An aerospace engineer working in software development
-I am a software engineer from Portugal - (mainly) backend dev. in Java and Spring Boot
+I am a software engineer from Portugal - (mainly) backend dev.  (Kotlin, Java and Spring Boot)
 I love coffee, working out and stand-up comedy
 ```
 
